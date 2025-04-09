@@ -8,6 +8,8 @@ En esta carpeta se presenta el procedimiento realizado durante el preprocesamien
 
 # Desarrollo_Modelos
 
+Se incluye el código de desarrollo y evaluación de los modelos. El nombre de cada subcarpeta indica la variable objetivo de los modelos que contiene. Se presenta un archivo por cada uno de los algoritmos implementados. Se importan los datos obtenidos luego del preprocesamiento, y se procede al entrenamiento y posterior evaluación del modelo. En cada archivo se entrenan tres modelos: uno con datos del año completo, uno con datos de la época lluviosa y uno con datos de la época seca. Cada uno de estos tres modelos es, a su vez, evaluado con datos de cada uno de estos tres períodos.
+
 # Evaluacion_WRF
 
 # Evaluacion_NextGen

@@ -8,10 +8,14 @@ En esta carpeta se presenta el procedimiento realizado durante el preprocesamien
 
 # Desarrollo_Modelos
 
-Se incluye el código de desarrollo y evaluación de los modelos. El nombre de cada subcarpeta indica la variable objetivo de los modelos que contiene. Se presenta un archivo por cada uno de los algoritmos implementados. Se importan los datos obtenidos luego del preprocesamiento, y se procede al entrenamiento y posterior evaluación del modelo. En cada archivo se entrenan tres modelos: uno con datos del año completo, uno con datos de la época lluviosa y uno con datos de la época seca. Cada uno de estos tres modelos es, a su vez, evaluado con datos de cada uno de estos tres períodos.
+Se incluye el código de desarrollo y evaluación de los modelos. El nombre de cada subcarpeta indica la variable objetivo de los modelos que contiene. Se presenta un archivo por cada uno de los algoritmos implementados. El código consiste en entrenar el modelo con los datos obtenidos luego del preprocesamiento, para luego proceder con su evaluación. En cada archivo se entrenan tres modelos: uno con datos del año completo, uno con datos de la época lluviosa y uno con datos de la época seca; cada uno de los tres modelos es evaluado con datos de los tres períodos, de forma que en cada archivo de código se realizan 9 evaluaciones (3 entrenamientos x 3 evaluaciones).
 
 # Evaluacion_WRF
 
+En esta carpeta se halla el código de evaluación del modelo WRF-BMJ-GFS. El procedimiento se desglosa en varios pasos; se presenta un archivo de código por cada paso. Primero, se construyen los pronósticos a partir de los archivos rasterizados proporcionados por el modelo; en segundo lugar, se construyen los valores reales utilizando los registros de INSIVUMEH. Luego, las instancias son separadas en cada uno de los tres tipos de evaluación (general, lluviosa y seca). Finalmente, en el cuarto y último paso, se realiza la evaluación del modelo mediante el cálculo de las métricas de evaluación. Para los modelos de clasificación, el código proporciona la matriz de confusión, la cual es transcrita a un archivo de Excel para el posterior cálculo de la exactitud y demás métricas.
+
 # Evaluacion_NextGen
+
+Se presentan los pasos seguidos para la evaluación del modelo NextGen. 
 
 # NOTAS

@@ -25,4 +25,5 @@ En este repositorio se encuentra únicamente el código de programación. Debido
 -------------------------------------------------
 
 Autor: Isaac Solórzano Quintana
+
 Correo: sol21765@uvg.edu.gt

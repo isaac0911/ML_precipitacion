@@ -1,8 +1,8 @@
 # ML_precipitacion
 
-Desarrollo y evaluación en lenguaje Python de modelos de machine learning de pronóstico de precipitación diaria a corto plazo en Guatemala. Los archivos de código son cuadernos de Jupyter Notebook.
+Desarrollo y evaluación en lenguaje Python de modelos de machine learning para pronóstico de precipitación diaria a corto plazo en Guatemala. Los archivos de código son cuadernos de Jupyter Notebook.
 
-El repositorio se compone de 4 carpetas principales y que constituyen una clasificación general del procedimiento experimental: Preprocesamiento, Desarrollo_Modelos, Evaluacion_WRF y Evaluacion_NextGen. A continuación se presenta una descripción del contenido de cada una.
+El repositorio se compone de 4 carpetas principales, las cuales constituyen una clasificación general del procedimiento experimental: Preprocesamiento, Desarrollo_Modelos, Evaluacion_WRF y Evaluacion_NextGen. A continuación se presenta una descripción del contenido de cada una.
 
 # Preprocesamiento
 

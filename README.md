@@ -16,6 +16,8 @@ En esta carpeta se halla el código de evaluación del modelo WRF-BMJ-GFS. El pr
 
 # Evaluacion_NextGen
 
-Se presentan los pasos seguidos para la evaluación del modelo NextGen. Los pasos son exactamente los mismos que se describen para el modelo WRF, con la diferencia de que en este caso se incluye un primera paso adicional. Este paso consiste en obtener la Climatología estacional 
+Se presentan los pasos seguidos para la evaluación del modelo NextGen. Los pasos son exactamente los mismos que se describen para el modelo WRF, con la diferencia de que en este caso se incluye un primera paso adicional. Este paso consiste en obtener la Climatología (promedio y percentiles) de la precipitación acumulada por período estacional, a partir de la base de datos meteorológicos. El modelo NextGen es evaluado únicamente en el pronóstico de Cotas Percentiles, por los motivos expuestos en el informe.
 
 # NOTAS
+
+Es importante mencionar que, debido a políticas del INSIVUMEH, no es posible compartir datos 

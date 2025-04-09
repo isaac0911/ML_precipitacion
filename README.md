@@ -20,4 +20,4 @@ Se presentan los pasos seguidos para la evaluación del modelo NextGen. Los paso
 
 # NOTAS
 
-En este repositorio se encuentra únicamente el código de programación. Debido a las políticas de protección de datos del INSIVUMEH, no se posible proporcionar la base de datos meteorológicos utilizada para el entrenamiento y evaluación de los modelos.
+En este repositorio se encuentra únicamente el código de programación. Debido a las políticas de protección de datos del INSIVUMEH, no es posible proporcionar la base de datos meteorológicos utilizada para el entrenamiento y evaluación de los modelos.
